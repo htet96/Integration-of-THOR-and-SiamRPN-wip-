@@ -30,6 +30,6 @@ The code (with some modifications) and models of the trackers are from the follo
 
 [SiamFC](https://github.com/huanglianghua/siamfc-pytorch),
 [SiamRPN](https://github.com/foolwood/DaSiamRPN),
-[SiamMask](https://github.com/foolwood/SiamMask)
-[THOR](https://github.com/xl-sr/THOR)
+[SiamMask](https://github.com/foolwood/SiamMask),
+[THOR](https://github.com/xl-sr/THOR),
 [SiamRPN++](https://github.com/HonglinChu/SiamTrackers)
