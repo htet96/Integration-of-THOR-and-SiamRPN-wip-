@@ -25,3 +25,11 @@ mv SiamMask_VOT.pth trackers/SiamMask/model.pth
 download the model [here](https://drive.google.com/open?id=1Q4-1563iPwV6wSf_lBHDj5CPFiGSlEPG) and move to subfolder 
 
 
+## Acknowledgments
+The code (with some modifications) and models of the trackers are from the following linked repositories:
+
+[SiamFC](https://github.com/huanglianghua/siamfc-pytorch),
+[SiamRPN](https://github.com/foolwood/DaSiamRPN),
+[SiamMask](https://github.com/foolwood/SiamMask)
+[THOR](https://github.com/xl-sr/THOR)
+[SiamRPN++](https://github.com/HonglinChu/SiamTrackers)
